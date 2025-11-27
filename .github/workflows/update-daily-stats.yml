@@ -2,7 +2,7 @@ name: Update Daily Stats
 
 on:
   schedule:
-    - cron: '30 6 * * *' # daily at 06:30 UTC (after snake)
+    - cron: "30 6 * * *" # daily at 06:30 UTC (after snake)
   workflow_dispatch: # allow manual trigger
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install dependencies
         run: pip install requests
