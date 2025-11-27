@@ -3,13 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Building+Scalable+Systems;🔐+Securing+the+Digital+World;🐧+Linux+Enthusiast+%26+Kernel+Hacker;☕+Fueled+by+Coffee+%26+Curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+Systems;Securing+the+Digital+World;Linux+Enthusiast+%26+Kernel+Hacker;Fueled+by+Coffee+%26+Curiosity" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Chrinux-AI">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&style=for-the-badge&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChrinux-AI&color=00D9FF&labelColor=1a1b27" alt="followers" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Chrinux-AI?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github" alt="followers" />
   <img src="https://komarev.com/ghpvc/?username=Chrinux-AI&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/stars/Chrinux-AI?style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github" alt="stars" />
 </p>
@@ -201,7 +199,7 @@ Config/Other     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🚀;Let's+build+something+awesome+together!;Happy+Coding!+💻" alt="footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Happy+Coding!" alt="footer typing" />
 </p>
 
 <p align="center">
