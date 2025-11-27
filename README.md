@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700" alt="divider" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I operate across **web development**, **system engineering**, and **cybersecurity fundamentals**. My workflow spans PHP-based backend development, Linux-based automation, and virtualized environments using VMware and VirtualBox.
 
@@ -42,7 +42,10 @@ I focus on building **structured, maintainable systems**, experimenting with **k
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="tech animation" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" alt="tech animation" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" alt="js" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" alt="react" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="git" />
 </p>
 
 ### 💻 Core Languages
@@ -95,7 +98,7 @@ I focus on building **structured, maintainable systems**, experimenting with **k
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="stats animation" />
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="100" alt="stats animation" />
 </p>
 
 <p align="center">
@@ -148,7 +151,7 @@ Config/Other     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" alt="handshake" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="handshake" />
 </p>
 
 <p align="center">
@@ -157,6 +160,12 @@ Config/Other     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </a>
   <a href="https://www.instagram.com/olabiyi_35/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:christolabiyi35@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/1374856274398810253" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/Chrinux-AI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -173,16 +182,22 @@ Config/Other     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-## 🎵 Vibes While Coding
+## ⚡ Fun Extras
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true" alt="Spotify" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="cat coding" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-I%20use%20btw-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="I use Linux btw" />
+  <img src="https://img.shields.io/badge/Coffee-Powered-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee Powered" />
+  <img src="https://img.shields.io/badge/Bugs-Features%20in%20disguise-FF6B6B?style=for-the-badge&logo=bug&logoColor=white" alt="Bugs" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700" alt="divider" />
 </p>
 
 <p align="center">
