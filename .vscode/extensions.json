@@ -1,0 +1,35 @@
+{
+  "recommendations": [
+    // 🎨 Themes & Icons
+    "zhuangtongfa.material-theme",
+    "pkief.material-icon-theme",
+    "miguelsolorio.fluent-icons",
+    // 🔤 Fonts (install JetBrains Mono separately)
+    // ✨ Visual Enhancements
+    "oderwat.indent-rainbow",
+    "mechatroner.rainbow-csv",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+    // 🚀 Productivity
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight",
+    // 🐍 Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    // 🌐 Web Development
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bmewburn.vscode-intelephense-client",
+    // 🔧 Git & Tools
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "github.copilot",
+    // 📁 File Management
+    "gruntfuggly.todo-tree"
+  ]
+}

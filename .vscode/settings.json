@@ -1,0 +1,113 @@
+{
+  // ═══════════════════════════════════════════════════════════════
+  // 🎨 THEME & APPEARANCE
+  // ═══════════════════════════════════════════════════════════════
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  // Window appearance
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "toggle",
+  // Sidebar
+  "workbench.sideBar.location": "left",
+  "workbench.activityBar.location": "top",
+  // ═══════════════════════════════════════════════════════════════
+  // 🔤 FONT & EDITOR
+  // ═══════════════════════════════════════════════════════════════
+  "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 1.6,
+  "editor.letterSpacing": 0.5,
+  // Font ligatures (fancy symbols like => becomes →)
+  "editor.fontLigatures": true,
+  // Cursor
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 2,
+  // ═══════════════════════════════════════════════════════════════
+  // ✨ VISUAL ENHANCEMENTS
+  // ═══════════════════════════════════════════════════════════════
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 80,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  // Bracket colorization
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+  // Line numbers & highlights
+  "editor.lineNumbers": "on",
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "selection",
+  // Scrollbar
+  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.horizontal": "auto",
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  // ═══════════════════════════════════════════════════════════════
+  // 🚀 PRODUCTIVITY
+  // ═══════════════════════════════════════════════════════════════
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.autoIndent": "full",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.linkedEditing": true,
+  "editor.suggest.preview": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.quickSuggestions": {
+    "strings": true,
+    "comments": false,
+    "other": true
+  },
+  // Auto save
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  // ═══════════════════════════════════════════════════════════════
+  // 🖥️ TERMINAL
+  // ═══════════════════════════════════════════════════════════════
+  "terminal.integrated.fontFamily": "'JetBrains Mono', 'Fira Code', monospace",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  // ═══════════════════════════════════════════════════════════════
+  // 🎯 GIT & VERSION CONTROL
+  // ═══════════════════════════════════════════════════════════════
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "scm.diffDecorations": "gutter",
+  // ═══════════════════════════════════════════════════════════════
+  // 🐍 PYTHON
+  // ═══════════════════════════════════════════════════════════════
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  // ═══════════════════════════════════════════════════════════════
+  // 🌐 WEB DEVELOPMENT (HTML, CSS, JS, PHP)
+  // ═══════════════════════════════════════════════════════════════
+  "emmet.includeLanguages": {
+    "php": "html",
+    "javascript": "javascriptreact"
+  },
+  "html.autoClosingTags": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // ═══════════════════════════════════════════════════════════════
+  // 🔧 MISCELLANEOUS
+  // ═══════════════════════════════════════════════════════════════
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "breadcrumbs.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+  // Zen mode (press Ctrl+K Z)
+  "zenMode.centerLayout": true,
+  "zenMode.fullScreen": true,
+  "zenMode.hideLineNumbers": false
+}
